@@ -1,7 +1,7 @@
-### Hi there 👋
+### Welcome, My name is Mary!👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaka86&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaka86&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaka86)](https://github.com/anuraghazra/github-readme-stats)
 
