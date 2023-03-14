@@ -1,9 +1,9 @@
 ### Welcome, My name is Mary!👋
 
 
-[![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaka86&show_icons=true&theme=nightowl)]
+![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaka86&show_icons=true&theme=nightowl)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaka86)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaka86)
 
 
 
